@@ -11,5 +11,5 @@ Supports basic operations: Addition, Subtraction, Multiplication, and Division.
 - Error handling for invalid numbers and division by zero
 
 ## How to Run
-Run the below script in bash or command prompt
-python calculator.py
+Run the script in bash or command prompt:
+'python calculator.py'
